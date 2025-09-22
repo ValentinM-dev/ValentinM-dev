@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 Who am I?
-**I'm ValentinM-dev**, a 23 y/o passionate developer leveling up every day in the coding world.  
+**I'm ValentinM-dev**, a 24 y/o passionate developer leveling up every day in the coding world.  
 🎓 Currently in training as a **Concepteur Développeur d'Applications (CDA)** — forging my full-stack skills and crafting real-world apps.  
 🎯 Grinding new tech stacks and building my dev arsenal.  
 
